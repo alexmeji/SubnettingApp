@@ -1,0 +1,20 @@
+.full {
+  width: 100%;
+}
+
+.contain {
+  display: flex;
+  flex-direction: row;
+}
+
+.ip {
+  order: 0;
+  background: #d1ecf1;
+  color: #0c5460;
+  border-color: #bee5eb;
+  padding: .55rem 1.05rem;
+  margin: 0.3rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  width: 160px;
+}

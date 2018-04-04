@@ -1,0 +1,15 @@
+.message {
+  color: darkgrey;
+  font-size: 12px;
+  text-align: left;
+}
+
+.alert {
+  color: red;
+  font-size: 12px;
+  text-align: left;
+}
+
+.hide {
+  display: none;
+}
